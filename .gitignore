@@ -1,0 +1,19 @@
+# Archivos compilados
+compiledFiles/
+rmzso.iso
+iso/boot/kernel.elf
+iso/os.img
+
+# Archivos temporales y logs
+*.o
+*.bin
+*.elf
+*.map
+*.lst
+
+# Archivos de caché y configuración del editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
